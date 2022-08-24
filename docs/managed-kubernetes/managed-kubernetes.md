@@ -50,7 +50,7 @@ Managed Kubernetes
   - [Spectro Cloud](https://www.spectrocloud.com) - Enterprise Kubernetes Management at scale
   - [SUSE Container as a Service](http://www.suse.com/betaprogram/caasp-beta/)
   - [VMware Tanzu Kubernetes Grid (TKG)](https://tanzu.vmware.com/kubernetes-grid) - Enterprise-ready multi-cloud Kubernetes runtime
-  
+ 
 
 ### [Public/Private Cloud](#publicprivate-cloud)
 
